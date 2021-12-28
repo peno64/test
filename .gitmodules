@@ -1,0 +1,3 @@
+[submodule "LocalSubtitle"]
+	path = LocalSubtitle
+	url = https://github.com/peno64/LocalSubtitle.git
